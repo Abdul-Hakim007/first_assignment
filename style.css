@@ -1,0 +1,29 @@
+
+
+.hero{
+    /* width: 500px; */
+    /* margin: 0; */
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+   background-color: darkslategray;
+   color: whitesmoke;
+   border-radius: 10px;
+}
+strong{
+    color: rgb(0 182 255);
+}
+img{
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.hero_des{
+    width: 500px;
+}
+b{
+    color: black;
+    font-weight: 700;
+    font-size: 17px;
+}
