@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 
 .hero{
     /* width: 500px; */
@@ -9,7 +11,7 @@
    gap: 20px;
    background-color: darkslategray;
    color: whitesmoke;
-   border-radius: 10px;
+   /* border-radius: 10px; */
 }
 strong{
     color: rgb(0 182 255);
